@@ -1,5 +1,3 @@
-# Connect4
----
 # Project Report
 
 ## Project Title: Connect 4 with AI Player(s)
